@@ -23,3 +23,7 @@ Latihan4
 Parktikum
 ![alt_text](https://github.com/cettasubagyo/jobsheet2/blob/master/praktikum.png)
 <br>
+
+Parktikum2
+![alt_text](https://github.com/cettasubagyo/jobsheet2/blob/master/praktikum2.png)
+<br>
